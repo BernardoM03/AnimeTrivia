@@ -1,6 +1,6 @@
 import React from "react"
-import Start from "./components/Start"
-import Quiz from "./components/Quiz"
+import Start from "./components/Start.jsx"
+import Quiz from "./components/Quiz.jsx"
 
 export default function App() {
     const [start, setStart] = React.useState(false)
