@@ -68,6 +68,7 @@ body {
     margin-top: 200px;
     font-size: "Karla", sans-serif;
     font-size: 1.5rem;
+    cursor: pointer;
 }
 
 .start--btn:hover {
@@ -96,6 +97,7 @@ body {
     height: 60px;
     font-size: "Karla", sans-serif;
     font-size: 1.125rem;
+    cursor: pointer;
 }
 
 .quiz--btn:hover {
@@ -129,6 +131,7 @@ body {
     width: 180px;
     padding: 0 10px;
     font-size: 1rem;
+    cursor: pointer;
 }
 
 .question--answer:hover, .selected {
